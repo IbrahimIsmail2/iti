@@ -20,7 +20,7 @@ void main() {
   showArea(rectangle);
 
   //Task 4
-  User user = User('ziad', 'ziadwaled2@gmail.com');
+  User user = User('ibrahim ismail', 'ibrahim@gmail.com');
   printJson(user);
   Product product = Product('Laptop', 50000);
   printJson(product);
